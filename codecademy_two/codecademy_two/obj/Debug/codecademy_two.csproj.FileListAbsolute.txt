@@ -1,0 +1,8 @@
+C:\Users\poynter_caleb\source\repos\codecademy_two\codecademy_two\bin\Debug\codecademy_two.exe.config
+C:\Users\poynter_caleb\source\repos\codecademy_two\codecademy_two\bin\Debug\codecademy_two.exe
+C:\Users\poynter_caleb\source\repos\codecademy_two\codecademy_two\bin\Debug\codecademy_two.pdb
+C:\Users\poynter_caleb\source\repos\codecademy_two\codecademy_two\obj\Debug\codecademy_two.csproj.AssemblyReference.cache
+C:\Users\poynter_caleb\source\repos\codecademy_two\codecademy_two\obj\Debug\codecademy_two.csproj.SuggestedBindingRedirects.cache
+C:\Users\poynter_caleb\source\repos\codecademy_two\codecademy_two\obj\Debug\codecademy_two.csproj.CoreCompileInputs.cache
+C:\Users\poynter_caleb\source\repos\codecademy_two\codecademy_two\obj\Debug\codecademy_two.exe
+C:\Users\poynter_caleb\source\repos\codecademy_two\codecademy_two\obj\Debug\codecademy_two.pdb
